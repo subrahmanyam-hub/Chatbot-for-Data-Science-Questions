@@ -1,0 +1,28 @@
+,topic,questions,answers
+1,Machine Learning,2. What are Different Types of Machine Learning algorithms?,"different types of machine learning algorithms.Supervised, unsupervised and reinforcement learning
+"
+2,Machine Learning,3. What is Supervised Learning?,"Supervised learning is a machine learning algorithm of inferring a function from labeled training data. 
+"
+3,Machine Learning,4. What is Unsupervised Learning?,Unsupervised learning is also a type of machine learning algorithm used to find patterns on the set of data given. It dont have any dependent variable or label to predict. 
+4,Machine Learning,5. What is ‘Naive’ in a Naive Bayes?,"The Naive Bayes method is a supervised learning algorithm, it is naive since it makes assumptions by applying Bayes’ theorem that all attributes are independent of each other."
+5,Machine Learning,6. What is PCA? When do you use it?,"Principal component analysis (PCA) is most commonly used for dimension reduction.In this case, PCA measures the variation in each variable (or column in the table). PCA is used in finance, neuroscience, and pharmacology.It is very useful as a preprocessing step, especially when there are linear correlations between features."
+7,Machine Learning,8. What are Support Vectors in SVM?,"A Support Vector Machine (SVM) is an algorithm that tries to fit a line (or plane or hyperplane) between the different classes that maximizes the distance from the line to the points of the classes.In this way, it tries to find a robust separation between the classes."
+8,Machine Learning,9. What are Different Kernels in SVM?,"There are six types of kernels in SVM,Linear kernel,Polynomial kernel , Radial basis kernel ,Sigmoid kernel "
+9,Machine Learning,10. What is Cross-Validation?,"Cross-validation is a method of splitting all your data into three parts: training, testing, and validation data. Data is split into k subsets, and the model has trained on k-1of those datasets.The last subset is held for testing. This is done for each of the subsets. This is k-fold cross-validation. "
+10,Machine Learning,11. What is Bias in Machine Learning?,Bias in data tells us there is inconsistency in data. The inconsistency may occur for several reasons which are not mutually exclusive.
+11,Machine Learning,12. Explain the Difference Between Classification and Regression?,"difference between classification and regression is classification  is used to classify data into some specific categories.Whereas, regression is used to predict the relationship that data represents"
+14,Machine Learning,15. How to Tackle Overfitting and Underfitting?,Overfitting means the model fitted to training data too well Whereas for the Underfitting case we are not able to understand or capture the patterns from the data.
+15,Machine Learning,16. What is a Neural Network?,"It is a simplified model of the human brain. Much like the brain, it has neurons that activate when encountering something similar."
+16,Machine Learning,17. What are Loss Function and Cost Functions? Explain the key Difference Between them?,"When calculating loss we consider only a single data point, then we use the term loss function.Whereas, when calculating the sum of error for multiple data then we use the cost function."
+19,Machine Learning,20. How to Handle Outlier Values?,"An Outlier is an observation in the dataset that is far away from other observations in the dataset. Tools used to discover outliers are Box plot,Z-score,Scatter plot, etc.
+"
+20,Machine Learning,21. What is a Random Forest? How does it work?,"Random forest is a versatile machine learning method capable of performing both regression and classification tasks.
+"
+21,Machine Learning,22. What is Collaborative Filtering? And Content-Based Filtering?,Collaborative filtering is a proven technique for personalized content recommendations.Content-based recommender systems are focused only on the preferences of the user.
+22,Machine Learning,23. What is Clustering?,"Clustering is the process of grouping a set of objects into a number of groups. Objects should be similar to one another within the same cluster and dissimilar to those in other clusters.Hierarchical clustering,K means clustering
+"
+24,Machine Learning,25. What are Recommender Systems?,A recommendation engine is a system used to predict users  interests and recommend products that are quite likely interesting for them.
+27,Machine Learning,28. Explain Correlation and Covariance?,Correlation is used for measuring and also for estimating the quantitative relationship between two variables.  Correlation measures how strongly two variables are related..Covariance is a simple way to measure the correlation between two variables. he problem with covariance is that they are hard to compare without normalization.
+28,Machine Learning,29. What is P-value?,P-values are used to make a decision about a hypothesis test. P-value is the minimum significant level at which you can reject the null hypothesis. 
+29,Machine Learning,30. What are Parametric and Non-Parametric Models?,"Parametric models will have limited parameters and Non-Parametric models have no limits in taking a number of parameters, allowing for more flexibility and to predict new data. "
+30,Machine Learning,31. What is Reinforcement Learning?,"In reinforcement learning, we are given neither data nor labels.  learning is based on the rewards given to the agent by the environment."

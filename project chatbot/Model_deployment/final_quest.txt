@@ -1,0 +1,144 @@
+adjusted rsquared 1
+advanced ensemble techniques 2
+ambiguity 3
+area curve auc 4
+bag words model 5
+bagging 6
+bagging metaestimator 7
+bias 8
+blending 9
+boosting 10
+bootstrapping 11
+catboost 12
+cbow 13
+classification accuracy 14
+classification algorithms 15
+clustering 16
+collaborative filtering 17
+components bayesian logic program 18
+conditional random fields 19
+confidence interval 20
+confusion matrix 21
+contentbased filtering 22
+coreference resolution 23
+corpus 24
+correlation 25
+correlation analysis 26
+cosine similarity 27
+cost functions 28
+covariance 29
+crossvalidation 30
+dependency parsing 31
+difference heuristic rule learning heuristics decision trees 32
+difference regular expression regular grammar 33
+different parameters used adaboost 34
+different parameters used bagging metaestimator 35
+different parameters used catboost 36
+different parameters used gradient boosting 37
+different parameters used light gbm 38
+different parameters used random forest 39
+different parameters used xgboost 40
+dimension reduction machine learning 41
+discourse analysis 42
+document similarity 43
+document term matrix 44
+docvec 45
+ensemble learning 46
+estimate entropy english language 47
+explain masked language model 48
+f score 49
+flexible string matching 50
+genetic programming 51
+gini coefficient 52
+gradient boosting 53
+hidden markov random fields 54
+incremental learning 55
+inductive machine learning 56
+information extraction 57
+instance based learning algorithm sometimes referred lazy learning algorithm 58
+keyword normalization 59
+kfold crossvalidation 60
+language modeling 61
+latent dirichlet allocation 62
+latent semantic indexing lsi 63
+lemmatization 64
+light gbm 65
+logarithmic loss 66
+loss function 67
+machine learning 68
+max voting 69
+mean absolute error 70
+mean squared error 71
+model evaluation metrics 72
+model selection machine learning 73
+models reduce dimensionality data 74
+naive bayes 75
+named entity recognition ner 76
+natural language generation 77
+neural network 78
+ngram 79
+nltk nlp 80
+noise removal 81
+nonparametric models 82
+object standardization used 83
+opennlp 84
+opensource libraries nlp 85
+outlier 86
+overfitting 87
+pac learning 88
+pagerank algorithm 89
+parametric models 90
+parts speech tagging 91
+pca 92
+perceptron machine learning 93
+performance measure 94
+perplexity 95
+pragmatic ambiguity 96
+pragmatic analysis 97
+precision recall 98
+predictive power 99
+pvalue 100
+random forest 101
+recommendation engine 102
+regression algoithms 103
+reinforcement learning 104
+resampling methods 105
+root mean square error 106
+rsquared 107
+semantic analysis 108
+sentence similarity 109
+sentiment analysis 110
+sequence learning 111
+shallow parsing 112
+signal processing 113
+simple ensemble techniques 114
+skipgram 115
+spacy 116
+stacking 117
+stemming 118
+stop words 119
+supervised learning 120
+support vector machine 121
+syntactic analysis 122
+test harness 123
+text generation 124
+text summarisation 125
+tfidf uses 126
+tokenization 127
+tools used training nlp models 128
+topic modeling 129
+transformers 130
+type error 131
+type ii error 132
+types machine learning algorithms 133
+underfitting 134
+unsupervised learning 135
+voting classifiers 136
+weighted average 137
+word embedding 138
+word similarity 139
+wordnet 140
+wordvec 141
+xgboost 142
+Hi 143
+good bye 144
